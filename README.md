@@ -106,7 +106,7 @@ In our application we check the slots and call appropriate functions in our firm
  3. Go to the AWS Console and click on the Lambda link. Note: ensure you
     are in us-east or you won't be able to use Alexa with Lambda.
  4. Click on the Create a Lambda Function or Get Started Now button.
- 4. Name the Lambda Function "Hello_World_Example_Skill".
+ 4. Name the Lambda Function "Particle".
  5. Go to the the src directory, select all files and then create a zip file, make sure the zip file does not contain the src directory itself, otherwise Lambda function will not work.
  6. Upload the .zip file to the Lambda
  7. Keep the Handler as index.handler (this refers to the main js file in the zip).
@@ -118,7 +118,7 @@ In our application we check the slots and call appropriate functions in our firm
 ***Alexa Skill Setup***
 
  12. Go to the Alexa Console (https://developer.amazon.com/edw/home.html) and click Add a New Skill.
- 13. Set "HelloWorld" as the skill name and "greeter" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, tell Greeter to say hello"
+ 13. Set "Particle" as the skill name and "particle" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, tell Particle to turn on red light"
  14. Select the Lambda ARN for the skill Endpoint and paste the ARN copied from above. Click Next.
  15. Copy the Intent Schema from the included IntentSchema.json.
  16. Copy the Sample Utterances from the included SampleUtterances.txt. Click Next.
