@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "ParticleIntent",
+      "slots": [
+	{
+          "name": "sensor",
+          "type": "LITERAL"
+        },
+        {
+          "name": "light",
+          "type": "LITERAL"
+        },
+        {
+          "name": "onoff",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
