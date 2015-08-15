@@ -133,7 +133,7 @@ In our application we check the slots and call appropriate functions in our firm
 
 ![Wiring](https://raw.githubusercontent.com/krvarma/Particle_Alexa/master/screenshots/image.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/krvarma/Particle_Alexa/master/screenshots/fritzing.jpg)
+![enter image description here](https://raw.githubusercontent.com/krvarma/Particle_Alexa/master/screenshots/fritzing.png)
 
 **Demo Video**
 
