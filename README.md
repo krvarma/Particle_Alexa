@@ -131,6 +131,10 @@ In our application we check the slots and call appropriate functions in our firm
 
 **Screenshots**
 
+![Wiring](https://raw.githubusercontent.com/krvarma/Particle_Alexa/master/screenshots/image.jpg)
+
+![enter image description here](https://raw.githubusercontent.com/krvarma/Particle_Alexa/master/screenshots/fritzing.jpg)
+
 **Demo Video**
 
 https://www.youtube.com/watch?v=-BkBoAMksT4
